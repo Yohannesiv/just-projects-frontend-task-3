@@ -1,0 +1,40 @@
+.one {
+    margin: 0 auto;
+    width: 20%;
+    background-color: #165ef0;
+    padding: 20px;
+    color: #fff;
+}
+
+img {
+    border-radius: 50%;
+}
+
+h3 {
+    margin-bottom: 0;
+}
+
+.email {
+    margin-top: 0;
+    font-size: small;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.profile-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 15px;
+    border: none;
+    background-color: #ffffff;
+    color: #165ef0;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.profile-button:hover {
+    opacity: 0.9;
+}
